@@ -1,0 +1,39 @@
+.nav-bar-logo{
+    width: 150px;
+}
+
+
+.vertical-line{
+    width: 2px;
+    height: 30px;
+    background-color: black;
+}
+
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+
+.navbar a {
+    color: black;
+    text-decoration: none;
+    margin: 0 10px;
+    font-family: "Blinker", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+}
+
+.navbar a:hover {
+    color: #EE7838;
+}
+
+.navbar a:active{
+    color: #EE7838;
+}
+
